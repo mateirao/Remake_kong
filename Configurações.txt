@@ -1,0 +1,12 @@
+VIEW DO LAYOUT 700X700
+
+Plataforma, aplica-la como TILET BACKGROUND, redimensionar para 152 - 23 
+
+BARRIL: colocar para 0 a fiction e tamanho 60x60
+
+Mario: max speed 100, pulo = 450
+
+Criar paredes para o barril colider
+
+Criar um outro colisor para instanciar um novo objeto
+usar sySTEM, CREATE OBJECT
